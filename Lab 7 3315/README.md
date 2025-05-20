@@ -116,7 +116,7 @@ Inspired by coursework at Langara College, Spring 2025.
 Contact
 
 Author: Ilay Paz
-Email: ilaypaz@example.com
+Email: pazlilay@gmail.com
 GitHub: github.com/ilaypaz
 
-Last updated: May 20, 2025, 12:15 AM PDT
+Last updated: May 19, 2025
